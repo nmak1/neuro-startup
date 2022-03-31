@@ -1,8 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/tmp
+tmp/
 *.old
 *.backup
 Thumbs.db
-*.DS_Store
+DS_Store
