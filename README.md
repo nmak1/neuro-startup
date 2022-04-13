@@ -1,5 +1,5 @@
 # neuro-startup
-![](https://github.com/nmak1/redme-nero-snarnap/blob/main/README.md)
+!(https://github.com/nmak1/redme-nero-snarnap/blob/main/README.md)
 
 /(ООО «Рога и копыта»
 Издательство «Читый лист»
